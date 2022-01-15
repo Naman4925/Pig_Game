@@ -93,4 +93,4 @@ const switchPlayer = function () {
     }
   });
 
-  btnNew.addEventListener('click', i
+  btnNew.addEventListener('click', in
